@@ -1,0 +1,28 @@
+{
+  "name": "kallisti_discord_bot",
+  "version": "1.0.0",
+  "description": "Multipurpose Discord Bot based on discord.js",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubzanatta/kallisti_discord_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubzanatta/kallisti_discord_bot/issues"
+  },
+  "homepage": "https://github.com/rubzanatta/kallisti_discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
